@@ -1,0 +1,8 @@
+Level 2
+
+"Network Security Sam set up a password protection script. 
+He made it load the real password from an unencrypted text file and compare it to the password the user enters. 
+However, he neglected to upload the password file..."
+
+#Since there is no password that is stored, there is no password to input.
+#Press the button to submit password with a blank entry and it will be a successful input!
